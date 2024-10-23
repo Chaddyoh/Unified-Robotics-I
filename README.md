@@ -2,7 +2,7 @@
 From January 2023 - March 2023, the completion of the second robotics course at WPI required the creation of a 2-wheeled robot with a custom made four-bar. 
 
 ## Description
-The robot is programmed to autonomously pick up **Solar Panels** and place them upon varying **Roofs** or remove **Solar Panels** from **Roofs**. **Solar Panels** are 101mm x 101mm x6mm plates of either wood, plastic, or aluminum. Each solar panel would have two 25.75mm diameter holes in them to allow placement on **Roofs**. **Roofs** where slanted wooden boards at 25&deg; slope and 45&deg; slope. On each &**Roof** would be two pegs that the **Solar Panels** would fit onto.
+The robot is programmed to autonomously pick up **Solar Panels** and place them upon varying **Roofs** or remove **Solar Panels** from **Roofs**. **Solar Panels** are 101mm x 101mm x6mm plates of either wood, plastic, or aluminum. Each solar panel would have two 25.75mm diameter holes in them to allow placement on **Roofs**. **Roofs** where slanted wooden boards at 25&deg; slope and 45&deg; slope. On each **Roof** would be two pegs that the **Solar Panels** would fit onto.
 
 <img src="img/Solar Panel.jpg" alt="drawing" width="350"/>
 
